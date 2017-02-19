@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487488768 source:c:\users\infoc\desktop\new folder\new folder1\project\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
